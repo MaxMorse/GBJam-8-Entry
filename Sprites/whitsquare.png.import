@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/whitsquare.png-8c09d7ab22fc5d60ad01e125cfe095c7.stex"
+path="res://.import/whitsquare.png-301f69c0399e1bd1a858814dd6c11105.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://whitsquare.png"
-dest_files=[ "res://.import/whitsquare.png-8c09d7ab22fc5d60ad01e125cfe095c7.stex" ]
+source_file="res://Sprites/whitsquare.png"
+dest_files=[ "res://.import/whitsquare.png-301f69c0399e1bd1a858814dd6c11105.stex" ]
 
 [params]
 
